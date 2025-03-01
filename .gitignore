@@ -1,0 +1,4 @@
+data/pbmc3k_processed.h5ad
+models/*
+__pycache__/
+.DS_Store
