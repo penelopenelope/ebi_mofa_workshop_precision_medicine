@@ -14,3 +14,5 @@ pip install muon==0.1.7
 ```
 conda install -c conda-forge omnipath
 ```
+
+#### [My Solution](https://github.com/penelopenelope/ebi_mofa_workshop_precision_medicine/blob/d874c1be9799233dfcd2b29b5f2fe4b95041d91b/project.ipynb) 
